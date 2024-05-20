@@ -1,0 +1,3 @@
+[submodule "tar-upload/updog"]
+	path = tar-upload/updog
+	url = https://github.com/sc0tfree/updog.git
